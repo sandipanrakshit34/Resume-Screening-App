@@ -40,6 +40,9 @@ The **Resume Screening App** is a machine learning application designed to strea
 
 - **User Feedback**: Provides actionable feedback and suggestions for improving resume scores.
 
+## Access
+Deployed on **render** => https://quikpost.onrender.com
+
 ## Technologies Used
 
 - **Programming Language**: Python
