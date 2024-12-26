@@ -1,22 +1,9 @@
 # Resume Screening App
 <center> <img src = "https://github.com/sandipanrakshit34/Resume-Screening-App/blob/main/feature1.adf306a03abd.png" width = 100%>
-## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Architecture](#architecture)
-- [Data Flow](#data-flow)
-- [Model Training](#model-training)
-- [Performance Metrics](#performance-metrics)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+## Access
+Deployed **App** => https://huggingface.co/spaces/sandipan23/Resume_Screening_App
 
 ## Overview
 
@@ -40,8 +27,6 @@ The **Resume Screening App** is a machine learning application designed to strea
 
 - **User Feedback**: Provides actionable feedback and suggestions for improving resume scores.
 
-## Access
-Deployed on **render** => https://quikpost.onrender.com
 
 ## Technologies Used
 
